@@ -1399,6 +1399,7 @@ a {
 .contact__item span {
   font-family: var(--ff-bold);
   text-wrap: pretty;
+  color: var(--color-dark);
 }
 @media only screen and (min-width: 1366px) {
   .contact__item {
@@ -1407,7 +1408,7 @@ a {
 }
 .contact__link {
   font-family: var(--ff-bold);
-  color: inherit;
+  color: var(--color-dark);
   cursor: pointer;
 }
 .contact__image {
